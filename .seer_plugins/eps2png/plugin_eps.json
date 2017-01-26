@@ -1,0 +1,7 @@
+{
+	"name": "eps-convertor",
+	"suffix": [
+	"eps" 
+	],
+	"exec": "gswin32.exe -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 \"-sDEVICE=pngalpha\" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 \"-sOutputFile=*SEER_OUTPUT_PATH*.png\" -f\"*SEER_INPUT_PATH*\""
+}

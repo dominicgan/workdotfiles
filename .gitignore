@@ -1,0 +1,59 @@
+sahi/
+workspace/
+temp/
+node_modules/
+Videos/
+wget-1.14/
+Videos/
+scp_dl/
+wc/
+ntuser*
+*.ico
+my.*
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+GScreenshots/
+Justinmind/
+Links/
+Pictures/
+Saved Games/
+VM/
+Tracing/
+Creative\ Cloud\ Files/
+EmailSignature/
+Favorites/
+Music/
+Screenshots/
+Searches/
+VirtualBox\ VMs/
+bin/
+gan.dominic@group.ong-ong.com\ Creative\ Cloud\ Files/
+.pyenv/
+.rnd
+.ssh/
+.npmrc
+.node-gyp/
+.node_repl_history
+.lesshst
+.*~
+.Icecream\ Screen\ Recorder/
+.VirtualBox/
+.android/
+.cache/
+.datastorage/
+.eclipse/
+.gem/
+.oracle_jre_usage/
+.p2/
+.v8flags*
+*.*~
+.bash_aliases_export
+.bundle/
+.config/
+.configprops/
+.vagrant.d/
+.viminfo
+_viminfo

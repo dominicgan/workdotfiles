@@ -1,0 +1,7 @@
+{
+"name":"InDesign File",
+"suffix":[
+"indd"
+],
+"exec":"exiftool.exe \"*SEER_INPUT_PATH*\" -listItem 0 -pageimage -b -m -W \"*SEER_OUTPUT_PATH*.jpg\""
+}

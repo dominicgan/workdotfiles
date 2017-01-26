@@ -1,0 +1,9 @@
+[user]
+	name = Dominic Gan
+	email = gan.dominic@group.ong-ong.com
+[branch]
+	autosetuprebase = always
+[core]
+	autocrlf = false
+[gui]
+	recentrepo = C:/Users/dgan3/workspace/rails/ong-foundation-2015

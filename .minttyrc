@@ -1,0 +1,11 @@
+BoldAsFont=yes
+Term=xterm-256color
+Font=Consolas
+FontHeight=10
+BoldAsColour=yes
+FontSmoothing=full
+AllowBlinking=yes
+BackgroundColour=21,21,21
+Locale=en_US
+Charset=UTF-8
+ClipShortcuts=yes

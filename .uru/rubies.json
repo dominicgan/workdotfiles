@@ -1,0 +1,21 @@
+{
+  "Version": "1.0.0",
+  "Rubies": {
+    "1892472554": {
+      "ID": "2.0.0-p247",
+      "TagLabel": "200p247",
+      "Exe": "ruby",
+      "Home": "C:\\Ruby200\\bin",
+      "GemHome": "",
+      "Description": "ruby 2.0.0p247 (2013-06-27) [i386-mingw32]"
+    },
+    "296224756": {
+      "ID": "1.9.3-p551",
+      "TagLabel": "system",
+      "Exe": "ruby",
+      "Home": "C:\\Ruby193\\bin",
+      "GemHome": "",
+      "Description": "ruby 1.9.3p551 (2014-11-13) [i386-mingw32]"
+    }
+  }
+}

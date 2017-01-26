@@ -1,0 +1,9 @@
+{
+"name":"Font File",
+"suffix":[
+"ttf",
+"pfb",
+"otf"
+],
+"exec":"fontpreview_py.exe -t \"A Quick Brown Fox Jumps Over The Lazy Dog 0123456789\" \"*SEER_INPUT_PATH*\" \"*SEER_OUTPUT_PATH*.png\""
+}
