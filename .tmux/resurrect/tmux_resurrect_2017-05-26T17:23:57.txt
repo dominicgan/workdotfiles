@@ -1,0 +1,41 @@
+pane	2	1	:vim	1	:*	1	:/Users/dgan/Desktop/MAB Amadeus	1	vim	:-bash
+pane	2	2	:bash	0	:-	1	:/Users/dgan	1	bash	:-bash
+pane	3	1	:Python	1	:*	1	:/Users/dgan	1	Python	:-bash
+pane	7	1	:bash	1	:*	1	:/Users/dgan	1	bash	:-bash
+pane	ENRICH	1	:gulp	0	:-	1	:/Users/dgan/workspace/MAB/enrich_portal	1	node	:-bash
+pane	ENRICH	2	:tig	0	:	1	:/Users/dgan/workspace/MAB/enrich_portal	1	tig	:-bash
+pane	ENRICH	3	:http	0	:	1	:/Users/dgan/workspace/MAB/enrich_portal	1	bash	:-bash
+pane	ENRICH	4	:bash	1	:*	1	:/Users/dgan/workspace/MAB/enrich_portal	1	bash	:-bash
+pane	MAB-2015	1	:gulp	0	:-	1	:/Users/dgan/workspace/MAB/Malaysia-Airlines-Berhad-RMD	1	node	:-bash
+pane	MAB-2015	2	:tig	1	:*	1	:/Users/dgan/workspace/MAB/Malaysia-Airlines-Berhad-RMD	1	tig	:-bash
+pane	MAB-2015	3	:http	0	:	1	:/Users/dgan/workspace/MAB/Malaysia-Airlines-Berhad-RMD	1	bash	:-bash
+pane	MAB-2015	4	:bash	0	:	1	:/Users/dgan/workspace/MAB/Malaysia-Airlines-Berhad-RMD	1	bash	:-bash
+pane	MAB-2017	1	:gulp	1	:*	1	:/Users/dgan/workspace/MAB/MAB-RMD-WCAG	1	node	:-bash
+pane	MAB-2017	2	:tig	0	:	1	:/Users/dgan/workspace/MAB/MAB-RMD-WCAG	1	tig	:-bash
+pane	MAB-2017	3	:http	0	:-	1	:/Users/dgan/workspace/MAB/MAB-RMD-WCAG	1	bash	:-bash
+pane	MAB-2017	4	:bash	0	:	1	:/Users/dgan/workspace/MAB/MAB-RMD-WCAG	1	bash	:-bash
+pane	MAB-USA-2016	1	:gulp	0	:-	1	:/Users/dgan/workspace/MAB/USA-MAB-Update	1	node	:-bash
+pane	MAB-USA-2016	2	:tig	1	:*	1	:/Users/dgan/workspace/MAB/USA-MAB-Update	1	tig	:-bash
+pane	MAB-USA-2016	3	:http	0	:	1	:/Users/dgan/workspace/MAB/USA-MAB-Update	1	bash	:-bash
+pane	MAB-USA-2016	4	:bash	0	:	1	:/Users/dgan/workspace/MAB/USA-MAB-Update	1	bash	:-bash
+window	2	1	1	:*	b49f,90x34,0,0,2
+window	2	2	0	:-	5a7f,90x34,0,0,10
+window	3	1	1	:*	b4a0,90x34,0,0,3
+window	7	1	1	:*	c184,140x36,0,0,7
+window	ENRICH	1	0	:-	c183,140x36,0,0,6
+window	ENRICH	2	0	:	60f0,140x36,0,0,11
+window	ENRICH	3	0	:	60f1,140x36,0,0,12
+window	ENRICH	4	1	:*	60f2,140x36,0,0,13
+window	MAB-2015	1	0	:-	c141,130x36,0,0,4
+window	MAB-2015	2	1	:*	e0cf,130x36,0,0,20
+window	MAB-2015	3	0	:	e0d0,130x36,0,0,21
+window	MAB-2015	4	0	:	e0d1,130x36,0,0,22
+window	MAB-2017	1	1	:*	c582,140x37,0,0,5
+window	MAB-2017	2	0	:	62f3,140x37,0,0,14
+window	MAB-2017	3	0	:-	62f4,140x37,0,0,15
+window	MAB-2017	4	0	:	62f5,140x37,0,0,16
+window	MAB-USA-2016	1	0	:-	c53e,130x37,0,0,1
+window	MAB-USA-2016	2	1	:*	62d6,130x37,0,0,17
+window	MAB-USA-2016	3	0	:	62d7,130x37,0,0,18
+window	MAB-USA-2016	4	0	:	62d8,130x37,0,0,19
+state	ENRICH	7

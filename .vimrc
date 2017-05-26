@@ -64,7 +64,7 @@ hi link VimwikiHeader5 pandocBlockQuoteLeader5
 hi link VimwikiHeader6 pandocBlockQuoteLeader6
 
 colorscheme onedark
-let g:airline_theme='base16_chalk'
+let g:airline_theme='base16_colors'
 let &t_AB="\e[48;5;%dm"
 let &t_AF="\e[38;5;%dm"
 
