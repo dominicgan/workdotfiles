@@ -68,6 +68,16 @@ catalina() {
 }
 
 
+# download new pathogen package
+# basically a git clone wrapper for vim plugin folder
+function tpm_get() {
+  cd ~/.tmux/plugins;
+  git clone $1;
+  echo -e "\033[30;43mTmux Plugins\033[0m ";
+  ls;
+  cd -;
+}
+
 function pathogen_get() {
   cd ~/.vim/bundle;
   git clone $1;
