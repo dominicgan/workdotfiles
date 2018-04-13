@@ -110,7 +110,6 @@ function vimpluginsrm() {
 
 function prefedit() {
   vim ~/$1;
-  cd -;
 }
 
 function colorscriptls() {
