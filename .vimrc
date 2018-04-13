@@ -46,6 +46,10 @@ set runtimepath^=~/.vim/bundle/ctrlp.vim
 " Wordwise Ctrl-Y in insert mode
 noremap! <C-Y> <Esc>klyWjpa
 
+" Navigate 5 lines at a go
+map <S-j> 5j
+map <S-k> 5k
+
 " NERDTree Settings
 map <silent> <C-n> :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
@@ -77,4 +81,5 @@ au BufRead,BufNewFile *.tmux.conf set syntax=perl
 au BufRead,BufNewFile *.vim-* 	  set syntax=vim
 au BufRead,BufNewFile httpd*.conf set syntax=apache
 au BufNewFile,BufRead *.md,*.markdown,*.mdown,*.mkd,*.mkdn,README.md set filetype=markdown
+
 
