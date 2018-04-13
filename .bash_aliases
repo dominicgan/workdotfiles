@@ -42,6 +42,8 @@ alias tmux="TERM=screen-256color-bce tmux"
 # catalina
 alias tomcat=catalina
 
+# thefuck setup
+eval $(thefuck --alias)
 
 # kill pid
 alias kilt="kill -9"
@@ -120,7 +122,6 @@ function colorscript() {
   ~/workspace/playground/color-scripts/color-scripts/$1;
 }
 
-eval $(thefuck --alias)
 # see used port
 function usedport {
 	lsof -i :$1
