@@ -121,6 +121,18 @@ function colorscript() {
   ~/workspace/playground/color-scripts/color-scripts/$1;
 }
 
+# mkdir and cd into newly made dir
+# srsly this shouldn't have to be custom made guys..
+function mkcd {
+  if [ ! -n "$1" ]; then
+	echo "Enter a directory name, mate"
+  elif [ -d $1 ]; then
+    echo "\`$1' already exists, guy"
+  else
+    mkdir $1 && cd $1
+  fi
+}
+
 # see used port
 function usedport {
 	lsof -i :$1
