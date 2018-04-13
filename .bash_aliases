@@ -133,6 +133,11 @@ function mkcd {
   fi
 }
 
+# cd to project root
+function cdp {
+	cd $(git rev-parse --show-toplevel)
+}
+
 # see used port
 function usedport {
 	lsof -i :$1
