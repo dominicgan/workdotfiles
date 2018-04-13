@@ -42,6 +42,10 @@ alias tmux="TERM=screen-256color-bce tmux"
 # catalina
 alias tomcat=catalina
 
+
+# kill pid
+alias kilt="kill -9"
+
 # Shortcut function to control Apache Tomcat Catalina script:
 catalina() {
   # Long-hand version:
@@ -107,3 +111,9 @@ function colorscript() {
 }
 
 eval $(thefuck --alias)
+# see used port
+function usedport {
+	lsof -i :$1
+}
+
+
