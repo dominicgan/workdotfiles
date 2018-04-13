@@ -26,10 +26,9 @@ alias exaz="exa -1s extension --group-directories-first"
 alias exaa="exa -as extension --group-directories-first"
 alias exal="exa -las extension --group-directories-first"
 
-
 # quick rewriting pref files
 alias sourcebash='source ~/.bash_profile'
-alias ipaddress='ifconfig | grep -v "127.0.0.1" | grep -v "inet6" | grep inet'
+alias ipaddress='ifconfig | grep -v "127.0.0.1" | grep -v "inet6" | grep -o "inet.*" | cut -f1- -d:'
 alias basaliases='vim ~/.bash_aliases'
 
 # prm plugin
