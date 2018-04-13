@@ -48,6 +48,8 @@ eval $(thefuck --alias)
 # kill pid
 alias kilt="kill -9"
 
+# all the functions!!
+
 # Shortcut function to control Apache Tomcat Catalina script:
 catalina() {
   # Long-hand version:
@@ -80,6 +82,8 @@ function tpm_get() {
   cd -;
 }
 
+# download new pathogen package
+# basically a git clone wrapper for vim plugin folder
 function pathogen_get() {
   cd ~/.vim/bundle;
   git clone $1;
@@ -88,11 +92,13 @@ function pathogen_get() {
   cd -;
 }
 
+# test if term outputs color
 function testcolor() {
   echo -e "\033[30;43mhola\033[0m ";
   echo -e "\033[30;45mørbo\033[0m ";
 }
 
+# display all vim plugins
 function vimplugins() {
   cd ~/.vim/bundle;
   echo -e "\033[30;43mVim Plugins\033[0m ";
@@ -100,6 +106,8 @@ function vimplugins() {
   cd -;
 }
 
+# remove installed vim plugins
+# and display remaining after deletion
 function vimpluginsrm() {
   cd ~/.vim/bundle;
   rm -rf $1;
@@ -108,15 +116,26 @@ function vimpluginsrm() {
   cd -;
 }
 
+# quick preference editor
+# basically just a quick editor of whatever files
+# are in home dir lmao
 function prefedit() {
   vim ~/$1;
 }
 
+# show all available preference files for editing
+function prefls() {
+  ls -a ~ | grep "^\."
+}
+
+# list all available color-script options
+# to print out fancy ascii term art
 function colorscriptls() {
   echo -e "\033[30;43mColor Scripts\033[0m ";
   ls ~/workspace/playground/color-scripts/color-scripts;
 }
 
+# print out fancy ascii term art
 function colorscript() {
   ~/workspace/playground/color-scripts/color-scripts/$1;
 }
