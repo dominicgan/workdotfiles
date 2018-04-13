@@ -40,6 +40,31 @@ alias cls='clear'
 
 alias tmux="TERM=screen-256color-bce tmux"
 
+# catalina
+alias tomcat=catalina
+
+# Shortcut function to control Apache Tomcat Catalina script:
+catalina() {
+  # Long-hand version:
+  # Start:
+  # $CATALINA_HOME/bin/startup.sh
+  # ... or:
+  # $CATALINA_HOME/bin/catalina.sh start
+  # Stop:
+  # $CATALINA_HOME/bin/shutdown.sh
+  # ... or:
+  # $CATALINA_HOME/bin/catalina.sh stop
+  # See .bash_aliases for related alias.
+  # if [ -z $1 ]; then
+  #   OPTION=start
+  # else
+  #   OPTION=$1
+  # fi
+  # $CATALINA_HOME/bin/catalina.sh OPTION
+  $CATALINA_HOME/bin/catalina.sh $1
+}
+
+
 function pathogen_get() {
   cd ~/.vim/bundle;
   git clone $1;
