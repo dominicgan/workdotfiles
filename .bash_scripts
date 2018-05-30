@@ -1,0 +1,167 @@
+# all the functions!!
+
+# Shortcut function to control Apache Tomcat Catalina script:
+catalina() {
+  # Long-hand version:
+  # Start:
+  # $CATALINA_HOME/bin/startup.sh
+  # ... or:
+  # $CATALINA_HOME/bin/catalina.sh start
+  # Stop:
+  # $CATALINA_HOME/bin/shutdown.sh
+  # ... or:
+  # $CATALINA_HOME/bin/catalina.sh stop
+  # See .bash_aliases for related alias.
+  # if [ -z $1 ]; then
+  #   OPTION=start
+  # else
+  #   OPTION=$1
+  # fi
+  # $CATALINA_HOME/bin/catalina.sh OPTION
+  $CATALINA_HOME/bin/catalina.sh $1
+}
+
+
+# download new pathogen package
+# basically a git clone wrapper for vim plugin folder
+function tpm_get() {
+  cd ~/.tmux/plugins;
+  git clone $1;
+  echo -e "\033[30;43mTmux Plugins\033[0m ";
+  ls;
+  cd -;
+}
+
+# download new pathogen package
+# basically a git clone wrapper for vim plugin folder
+function pathogen_get() {
+  cd ~/.vim/bundle;
+  git clone $1;
+  echo -e "\033[30;43mVim Plugins\033[0m ";
+  ls;
+  cd -;
+}
+
+# test if term outputs color
+function testcolor() {
+  echo -e "\033[30;43mhola\033[0m ";
+  echo -e "\033[30;45mørbo\033[0m ";
+}
+
+# display all vim plugins
+function vimplugins() {
+  cd ~/.vim/bundle;
+  echo -e "\033[30;43mVim Plugins\033[0m ";
+  ls;
+  cd -;
+}
+
+# remove installed vim plugins
+# and display remaining after deletion
+function vimpluginsrm() {
+  cd ~/.vim/bundle;
+  rm -rf $1;
+  echo -e "\033[30;43mVim Plugins\033[0m ";
+  ls;
+  cd -;
+}
+
+# quick preference editor
+# basically just a quick editor of whatever files
+# are in home dir lmao
+function prefedit() {
+  vim ~/$1;
+}
+
+# show all available preference files for editing
+function prefls() {
+  ls -a ~ | grep "^\."
+}
+
+# list all available color-script options
+# to print out fancy ascii term art
+function colorscriptls() {
+  echo -e "\033[30;43mColor Scripts\033[0m ";
+  ls ~/workspace/playground/color-scripts/color-scripts;
+}
+
+# print out fancy ascii term art
+function colorscript() {
+  ~/workspace/playground/color-scripts/color-scripts/$1;
+}
+
+# mkdir and cd into newly made dir
+# srsly this shouldn't have to be custom made guys..
+function mkcd {
+  if [ ! -n "$1" ]; then
+	echo "Enter a directory name, mate"
+  elif [ -d $1 ]; then
+    echo "\`$1' already exists, guy"
+  else
+    mkdir $1 && cd $1
+  fi
+}
+
+# cd to project root
+function cdp {
+	cd $(git rev-parse --show-toplevel)
+}
+
+# see used port
+function usedport {
+	lsof -i :$1
+}
+
+# deploy projects
+function deployproj {
+	w=~/workspace
+
+    if [ ! -n "$1" ]; then
+	  echo "Please enter a project"
+
+	elif [ $1 == "pphg" ]; then
+		# project: pphg
+		rmdDir=$w/PPHG/rmd/dist/assets
+		techDir=$w/PPHG/tech/ui.apps/src/main/content/jcr_root/etc/designs/pphg-revamp/clientlibs
+
+		css_srcdir=$rmdDir/css/*
+		js_srcdir=$rmdDir/js/*
+
+		css_destdir=$techDir/css
+		js_destdir=$techDir/js
+
+		echo '>> Copying CSS';
+		cp -r $css_srcdir $css_destdir;
+		echo '>> Copying JS';
+		cp -r $js_srcdir $js_destdir;
+
+	elif [ $1 == "wrs" ]; then
+		#project: wrs
+		rmdDir=$w/WRS/WRS-website-frontend/wrs-frontent/static
+		techDir=$w/WRS/WRS-website-tech/wrs-aem/ui.apps/src/main/content/jcr_root/etc/designs/wrs
+
+		css_srcdir=$rmdDir/style/*
+		js_srcdir=$rmdDir/js/plugins/*
+
+		css_destdir=$techDir/clientlib-site/css
+		js_destdir=$techDir/footLibs/js/plugins
+
+		echo '>> Copying CSS';
+		cp -r $css_srcdir $css_destdir;
+		echo '>> Copying JS';
+		cp -r $js_srcdir $js_destdir;
+
+	elif [ $1 == "hsbc" ]; then
+		# project: hsbc
+		echo ">> Building war";
+		mvn package;
+
+		echo ">> Copying hsbc war to tomcat";
+		srcwar=$w/hsbc/rmd/target/dreamcatcher.war
+		destwar=$CATALINA_HOME/webapps/ROOT.war
+
+		cp $srcwar $destwar;
+		catalina stop && catalina start;
+	fi
+}
+

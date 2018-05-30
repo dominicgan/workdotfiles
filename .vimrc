@@ -28,7 +28,7 @@ set tabstop=4
 set wildmenu
 
 " Term color settings
-source ~/.vim-term-config
+" source ~/.vim-term-config
 
 if has("gui_running")
 	set linespace=3
@@ -79,7 +79,7 @@ au BufRead,BufNewFile *.sah   	  set syntax=javascript
 au BufRead,BufNewFile *.nunjucks  set ft=jinja
 au BufRead,BufNewFile *.tmux.conf set syntax=perl
 au BufRead,BufNewFile *.vim-* 	  set syntax=vim
+au BufRead,BufNewFile .bash_scripts set syntax=sh
 au BufRead,BufNewFile httpd*.conf set syntax=apache
 au BufNewFile,BufRead *.md,*.markdown,*.mdown,*.mkd,*.mkdn,README.md set filetype=markdown
-
 
