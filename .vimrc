@@ -6,6 +6,7 @@ filetype plugin indent on
 " Editor preferences
 syntax on
 set autoindent
+set autoread
 set backspace=indent,eol,start
 set confirm
 set cursorline
@@ -26,6 +27,7 @@ set textwidth=80
 set ttimeoutlen=50
 set tabstop=4
 set wildmenu
+set guifont=Hack:h14
 
 " Term color settings
 " source ~/.vim-term-config
@@ -80,6 +82,24 @@ au BufRead,BufNewFile *.nunjucks  set ft=jinja
 au BufRead,BufNewFile *.tmux.conf set syntax=perl
 au BufRead,BufNewFile *.vim-* 	  set syntax=vim
 au BufRead,BufNewFile .bash_scripts set syntax=sh
+au BufRead,BufNewFile Brewfile  set syntax=sh
 au BufRead,BufNewFile httpd*.conf set syntax=apache
 au BufNewFile,BufRead *.md,*.markdown,*.mdown,*.mkd,*.mkdn,README.md set filetype=markdown
+
+" vim plugins concealment
+" if globpath(&runtimepath, 'javascript.vim', 1) !=# ''
+"	set conceallevel=1
+"	let g:javascript_conceal_function             = "ƒ"
+"	let g:javascript_conceal_null                 = "ø"
+"	let g:javascript_conceal_this                 = "@"
+"	let g:javascript_conceal_return               = "⇚"
+"	let g:javascript_conceal_undefined            = "¿"
+"	let g:javascript_conceal_NaN                  = "ℕ"
+"	let g:javascript_conceal_prototype            = "¶"
+"	let g:javascript_conceal_static               = "•"
+"	let g:javascript_conceal_super                = "Ω"
+"	let g:javascript_conceal_arrow_function       = "⇒"
+"	let g:javascript_conceal_noarg_arrow_function = "🞅"
+"	let g:javascript_conceal_underscore_arrow_function = "🞅"
+" endif
 

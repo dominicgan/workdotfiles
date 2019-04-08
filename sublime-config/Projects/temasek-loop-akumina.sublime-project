@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/dominic.gan/workspace/temasek/loop/akumina"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"dist",
+				"node_modules",
+				"src/data",
+				"src/helpers",
+				"src/layouts",
+				"src/pages",
+				"src/partials",
+				"src/assets/js/akumina"
+			],
+			"path": "/Users/dominic.gan/workspace/temasek/loop/frontend"
+		},
+		{
+			"path": "/Users/dominic.gan/workspace/temasek/WidgetSourceCode"
+		}
+	]
+}

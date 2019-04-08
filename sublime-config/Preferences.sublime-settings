@@ -1,0 +1,58 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+	"drag_text": false,
+	"enable_tab_scrolling": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".DS_Store",
+		"__pycache__",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		"*.psd"
+	],
+	"font_face": "Hack",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 3,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tree_headings": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		120
+	],
+	"theme": "OneDarkMaterial.sublime-theme",
+	"word_wrap": true
+}

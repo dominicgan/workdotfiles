@@ -108,6 +108,11 @@ function cdp {
 }
 
 # see used port
+function diskspace {
+	~/disk_space.sh
+}
+
+# see used port
 function usedport {
 	lsof -i :$1
 }
@@ -164,4 +169,5 @@ function deployproj {
 		catalina stop && catalina start;
 	fi
 }
+
 

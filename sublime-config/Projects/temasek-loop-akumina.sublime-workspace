@@ -1,0 +1,2241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"taskAss",
+				"taskAssigneeName"
+			],
+			[
+				"empy",
+				"emptyTaskItemClickHandler"
+			],
+			[
+				"attach",
+				"attachFilterEventHandler"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"font-famil",
+				"font-family-sans-serif"
+			],
+			[
+				"bacground-",
+				"background-position\t(_documentviewfile.scss)"
+			],
+			[
+				"breadC",
+				"breadcrumbsElem"
+			],
+			[
+				"breadcrum",
+				"breadcrumbsElem"
+			],
+			[
+				"tagele",
+				"tagElemId"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"memberI",
+				"memberImgSelector"
+			],
+			[
+				"createB",
+				"createButtonWorkaround"
+			],
+			[
+				"quer",
+				"querySelectorAll"
+			],
+			[
+				"data-wor",
+				"data-workspace-item"
+			],
+			[
+				"ese-",
+				"ease-in-out\t(_tasks-panel.scss)"
+			],
+			[
+				"setUser",
+				"setUserPhotoSP\t(loop.main.js)"
+			],
+			[
+				"callout",
+				"callout-text-style\t(_callout.scss)"
+			],
+			[
+				"winH",
+				"winHeight20"
+			],
+			[
+				"activeNote",
+				"activeNoteArea"
+			],
+			[
+				"pageC",
+				"pageContentHTML"
+			],
+			[
+				"ws-note",
+				"ws-notes-v2__note"
+			],
+			[
+				"ws-",
+				"ws-notes-v2"
+			],
+			[
+				"pageBo",
+				"pageBodyHTML"
+			],
+			[
+				"algin-",
+				"align-right"
+			],
+			[
+				"align",
+				"align-items\t(_tasks-modal.scss)"
+			],
+			[
+				"preve",
+				"preventDefault\t(LoopWorkspaceListingNoAccess.html)"
+			],
+			[
+				"industry",
+				"industyInputGroupId"
+			],
+			[
+				"tetx-",
+				"text-input-hover-style"
+			],
+			[
+				"text-i",
+				"text-input-focus-style"
+			],
+			[
+				"qeury",
+				"querySelectorAll"
+			],
+			[
+				"getElemeb",
+				"getElementById"
+			],
+			[
+				"percent",
+				"percentComplete"
+			],
+			[
+				"jq",
+				"jqueryDateInputFormat"
+			],
+			[
+				"time",
+				"timeObj"
+			],
+			[
+				"moment",
+				"momentDateViewFormat"
+			],
+			[
+				"backgroun",
+				"background-color\t(loop.main.js)"
+			],
+			[
+				"pop",
+				"populateMetadataPromise"
+			],
+			[
+				"errorTwoIn",
+				"errorTwoIndustryAndMarkets\t(en-us.js)"
+			],
+			[
+				"gridVi",
+				"gridViewBtn"
+			],
+			[
+				"gridVIe",
+				"gridViewBtnId"
+			],
+			[
+				"querySelect",
+				"querySelectorAll"
+			],
+			[
+				"remain",
+				"remainingTagsCount"
+			],
+			[
+				"querySeec",
+				"querySelectorAll"
+			],
+			[
+				"lastU",
+				"lastUpdatedTimestamp"
+			],
+			[
+				"timeSta",
+				"timestampObj"
+			],
+			[
+				"addTas",
+				"addTaskStartDate"
+			],
+			[
+				"wsAvatar",
+				"wsAvatarItemsLen"
+			],
+			[
+				"manage",
+				"managemembers__content"
+			],
+			[
+				"manag",
+				"managemembers__cta"
+			],
+			[
+				"background",
+				"background-color\t(LoopWorkspaceListing.html)"
+			],
+			[
+				"backgou",
+				"background\t(index.html)"
+			],
+			[
+				"img",
+				"image\t(_tasks-item.scss)"
+			],
+			[
+				"margin-b",
+				"margin-bottom-1"
+			],
+			[
+				"sidebar",
+				"sidebarMenuListContainer"
+			],
+			[
+				"allG",
+				"allgroupListing"
+			],
+			[
+				"my",
+				"mygroupListing"
+			],
+			[
+				"example",
+				"example-tabs"
+			],
+			[
+				"inlne",
+				"inline-block\t(_settings.scss)"
+			],
+			[
+				"avatar",
+				"avatar-group\t(workspace-nav.html)"
+			],
+			[
+				"alig",
+				"align-items\t(app.css)"
+			],
+			[
+				"Libarr",
+				"Library"
+			],
+			[
+				"libr",
+				"library\t(sidebar.html)"
+			],
+			[
+				"margin",
+				"margin-bottom-1"
+			],
+			[
+				"test-radi",
+				"test-radio-option-1"
+			],
+			[
+				"reSp",
+				"reSpcBtw"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"very",
+				"very-light-pink-two\t(tertiary.html)"
+			],
+			[
+				"very-l",
+				"very-light-blue\t(tertiary.html)"
+			],
+			[
+				"white",
+				"white-space\t(buttons.html)"
+			],
+			[
+				"veryl",
+				"very-light-blue-grey-two\t(tertiary.html)"
+			],
+			[
+				"ver",
+				"very-light-blue"
+			],
+			[
+				"pointer",
+				"pointer-events\tproperty"
+			],
+			[
+				"http",
+				"http://placehold.it/17x17"
+			],
+			[
+				"aria-hid",
+				"aria-hidden='true"
+			],
+			[
+				"assign",
+				"assignees"
+			],
+			[
+				"dec",
+				"description"
+			],
+			[
+				"brder",
+				"border-radius"
+			],
+			[
+				"desc",
+				"descriptionEdit"
+			],
+			[
+				"des",
+				"descriptionEdit"
+			],
+			[
+				"upl",
+				"uploadedFiles"
+			],
+			[
+				"tasks__mod",
+				"tasks__modal-description"
+			],
+			[
+				"Dropd",
+				"Dropdown-control"
+			],
+			[
+				"drop",
+				"dropdownOptions"
+			],
+			[
+				"ease-i",
+				"ease-in-out"
+			],
+			[
+				"easei",
+				"ease-in-out"
+			],
+			[
+				"poiner",
+				"pointer-events\tproperty"
+			],
+			[
+				"tasks_",
+				"tasks__creator-bar"
+			],
+			[
+				"sleected",
+				"selectedTab"
+			],
+			[
+				"TaskList",
+				"TaskListItem"
+			],
+			[
+				"select",
+				"selectedTab"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "```\n- 100%/1800 .... ‎₩35,000\n- 60/65% ....... ‎₩35,000\n- 75% .......... ‎₩30,000\n```",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/img/on.svg",
+			"settings":
+			{
+				"buffer_size": 616,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git Blame"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"gitb",
+				"Git Blame"
+			],
+			[
+				"bla",
+				"Git Blame"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tral",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"reload",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"setjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htmlasp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"sethand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"showall",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"showlal",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"allerror",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linterre",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"preferenceslint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"showla",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"showerro",
+				"SublimeLinter: Show Line Errors"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"swapq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"swap",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"setja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"eslet",
+				"Snippet: ES6 Let"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"swaq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"swap quotes",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"sethtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"traiing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"editpro",
+				"Project: Edit Project"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"setasp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"setjavasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setjavcas",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"delt",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"del",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"deletetra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"treai",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"t",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"setscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"tari",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pretjs",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"setJs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"subl",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"syntaxjavasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"sethandle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"setmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"linter",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"sublimel",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"sety",
+				"Set Syntax: YAML"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"syntaxhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"nmarkd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mkdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"new p",
+				"Project Manager: Add New Project"
+			],
+			[
+				"beauti",
+				"Beautify::Beautify File"
+			],
+			[
+				"beaut",
+				"Beautify::Beautify File"
+			],
+			[
+				"jsonpre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"emmet",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeovepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimetog",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"sublimelinttog",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"sublimelin",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"new pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"removepack",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 576.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dominic.gan/workspace/temasek/loop/akumina",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/SiteDefinitions",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/SiteDefinitions/DigitalWorkPlace",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/SiteDefinitions/DigitalWorkPlace/Branding",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/SiteDefinitions/DigitalWorkPlace/Branding/JS",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/SiteDefinitions/dist",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/SiteDefinitions/TheLoop",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src",
+		"/Users/dominic.gan/workspace/temasek/WidgetSourceCode"
+	],
+	"file_history":
+	[
+		"/Users/dominic.gan/Desktop/star.svg",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/loop.main.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/digitalworkplace.min.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceManageMembersWidget/LoopWorkspaceManageMembers.html",
+		"/Users/dominic.gan/workspace/temasek/WidgetSourceCode/workspaceplantaskswidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/js/widgets/workspaceListingWidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/language/en-us.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceListingWidget/LoopWorkspaceListingList.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspaceEditPopup.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/node_modules/uri-js/dist/esnext/schemes/mailto.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/digitalworkplace.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/WorkspaceProvisioningWidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceProvisioningWidget/LoopWorkspaceProvisioning.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspaceCreatePopup.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspacePlanTasksWidget/LoopWorkspacePlanTasksListing.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/MasterPages/loop.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/js/akumina/digitalworkplace.min.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/gulpfile.babel.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_milestone.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_overlay.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_report.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_task.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_tab.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_workspaceadjusts.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/lib/uppy/dashboard/src/style.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/lib/uppy/status-bar/src/style.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/lib/uppy/utils/src/microtip.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/widgets/dms-v1/_dms-v1-sidebar.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/widgets/notes-v1/_notes-items.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/widgets/notes-v2/_notes-v2-item.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/PageLayouts/Loop2ColumnPageLayout.aspx",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/archived widgets/TrayWidget/config/config.json",
+		"/Users/dominic.gan/workspace/temasek/WidgetSourceCode/workspacelistingwidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace.workspaces.modified.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/components/forms/_input-text.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_document.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_documentviewer.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_featuredworkspace.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/loop.main.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package.json",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/src/assets/scss/digitalworkplace/_contextmenu.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/js/loop.fed.main.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/js/widgets/logging.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/js/widgets/workspacePlanTaskWidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/tasks/_tasks-panel.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/_dms-v2.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/dms-v2/_documentviewtree.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_dmsgrid.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspacePageWidget/LoopWorkspaceDocumentTabLayout.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidgetv2.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/DocumentsGrid/templates.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceDetailsWidget/LoopWorkspaceDetailsHeader.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspacePlanAddTask.html",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/lib/uppy/status-bar/src/style.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/Layouts/LoopWorkspaceLayout.html",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/js/widgets/workspaceDocumentsWidget.js",
+		"/Users/dominic.gan/workspace/temasek/WidgetSourceCode/quicklinkswidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/.eslintrc",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceOneNoteWidget/LoopWorkspaceOneNoteWidgetV2.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspacelooprelatedlinkswidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/dms-v2/_documentviewfile.scss",
+		"/Users/dominic.gan/workspace/temasek/WidgetSourceCode/workspacetasklistwidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_documentviewer.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_documentviewtree.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/notes-v2/_notes-v2-item.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/_settings.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/gulpfile.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceLoopRelatedLinksWidget/LoopWorkspaceLoopRelatedLinksWidget.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/DocumentsFolderTree/templates.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceWhiteboardwidget.js",
+		"/Users/dominic.gan/Library/Application Support/Sublime Text 3/Packages/User/Projects/temasek-loop-akumina.sublime-project",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/DocumentsFolderTree/default.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/DocumentsGrid/default.html",
+		"/Users/dominic.gan/workspace/temasek/WidgetSourceCode/workspacedocumentsviewwidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceOneNoteWidget/LoopWorkspaceOneNoteWidget.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceTaskListWidget/LoopWorkspaceTaskList.html",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_document.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/notes-v1/_notes-content.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/components/containers/_modals.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/dms-v1/_dms-v1-preview.scss",
+		"/Users/dominic.gan/Desktop/getTrending2.js",
+		"/Users/dominic.gan/Desktop/getShared2.js",
+		"/Users/dominic.gan/Desktop/getActivitiesResponse.json",
+		"/Users/dominic.gan/Desktop/getWSActivities.js",
+		"/Users/dominic.gan/Desktop/getActivities2.js",
+		"/Users/dominic.gan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceWhiteBoardWidget/LoopWorkspaceWhiteboardWidget.html",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/WorkspaceLoopPlanTasksWidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/loop.main.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/global/_typography.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/_whiteboard.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_conversation.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_documentedit.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_featuredworkspace.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_gallery.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_global.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_latestconversation.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_managemembers.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_milestone.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_overlay.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_pagebuilder.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_report.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_tab.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_task.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_taskpage.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_workspacedetail.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/_manage-members.scss",
+		"/Users/dominic.gan/Desktop/unminified-digitalworkplace-2.js",
+		"/Users/dominic.gan/Desktop/unminified-digitalworkplace.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_dropdown.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/js/globals.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/js/widgets/workspaceDetailsWidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/_dms-v1.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/mixins/_brand-colors.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/mixins/_typography.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/components/media/_avatar.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/components/media/_avatars-group.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/digitalworkplace/_workspaceadjusts.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/related-links/_related-links-page.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/digitalworkplace.core.workspaceplantaskswidget.min.js",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/tasks/_tasks-modal.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/scss/widgets/tasks/_tasks-item.scss",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/CSS/loop.main.css",
+		"/Users/dominic.gan/workspace/temasek/WidgetSourceCode/workspacedetailswidget.js",
+		"/Users/dominic.gan/workspace/temasek/WidgetSourceCode/workspacedocumentswidget.js",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/akumina.config.json",
+		"/Users/dominic.gan/workspace/temasek/loop/akumina/package-lock.json"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+			"<project>, -*/node_modules/*, *.html, *.js",
+			"<project>, -*/node_modules/*",
+			"<project>, -*/node_modules/*, *.html",
+			"<project>, -*/node_modules/*, *.js",
+			"<project>, -*/node_modules/*, *.html",
+			"<project>, -*/node_modules/*, *.js",
+			"<current file>",
+			"<project>, -*/node_modules/*, *.js",
+			"<project>, -*/node_modules/*, *.html",
+			"<project>, -*/node_modules/*, *.js",
+			"<project>, -*/node_modules/*, *.html",
+			"<project>, -*/node_modules/*",
+			"<project>, -*/node_modules/*, -*.css, -*.js, *.html",
+			"<project>, -*/node_modules/*, -*.css, -*.js",
+			"<project>, -*/node_modules/*, -*.css",
+			"<project>, -*/node_modules/*, !*.css",
+			"<project>, -*/node_modules/*",
+			"<project>, -*/node_modules/*, *.html, *.js, *.scss",
+			"<project>, -*/node_modules/*, *.scss",
+			"<project>, -*/node_modules/*, *.html, *.js, *.scss",
+			"<project>, -*/node_modules/*, *.html",
+			"<project>, -*/node_modules/*, -*.min.js, -loop.fed.main.js, *.html, *.js",
+			"<project>, -*/node_modules/*, *.html",
+			"<project>, -*/node_modules/*, -*.min.js, -loop.fed.main.js, *.html, *.js",
+			"<project>, -app.js, *.js",
+			"<project>, -*/node_modules/*, -*.min.js, -loop.fed.main.js, *.html, *.js",
+			"<project>, -*/node_modules/*, *.html, *.js",
+			"<project>, -*/node_modules/*, *.html",
+			"<project>, -*/node_modules/*, *.html, *.js",
+			"<project>, -*/node_modules/*, -*.min.js, -loop.fed.main.js, *.html, *.js",
+			"<project>, -*/node_modules/*, -*.min.js, *.html, *.js",
+			"<project>, -*/node_modules/*, *.html, *.js",
+			"package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates, *.html",
+			"<project>, -app.js, *.js",
+			"<project>, -app.js, *.js, *.html",
+			"<project>, *.html",
+			"<project>, -app.js, *.js, *.html",
+			"<project>, *.scss",
+			"<project>, -app.js, *.js, *.html",
+			"<project>, *.scss",
+			"<project>, -app.js, *.js, *.html",
+			"<project>, *.scss",
+			"<project>, -app.js, *.js, *.html",
+			"<project>, *.js, *.html",
+			"<project>, -*.min.js, *.js, *.html",
+			"<project>, *.scss",
+			"<project>, -*.min.js, *.js, *.html",
+			"<project>, -*/frontend/*, -*.min.js, *.js, *.html",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, -*.min.js, *.js, *.html",
+			"<project>, -*/frontend/*, *.js, *.html",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.js, *.html",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/frontend/*,",
+			"<project>, -*/frontend/*, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, *.scss",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, *.scss",
+			"<project>, -*/digitalworkplace/*, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>",
+			"<project>, -*/frontend/*, *.html",
+			"<project>",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>, -*/digitalworkplace/*, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/digitalworkplace/*, *.scss",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/digitalworkplace/*, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/frontend/*, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/frontend/*, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/digitalworkplace/*, *.scss",
+			"<project>, -*/frontend/*, ",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, *.scss",
+			"<project>, -*/digitalworkplace/*, *.scss",
+			"<project>, -*/digitalworkplace/*, -*/notes-v1/*, -*/dms-v1/_*, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/frontend/*, -loop.fed.main.js, *.js",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/frontend/*, -loop.fed.main.js, *.js",
+			"<project>, -*/digitalworkplace/*, -*/notes-v1/*, -*/dms-v1/_*, *.scss",
+			"<project>, -*/frontend/*, *.html",
+			"<project>, -*/digitalworkplace/*, -*/notes-v1/*, -*/dms-v1/_*, *.scss",
+			"<project>, -*/digitalworkplace/*, -*/notes-v1/*, -*/dms-v1/_*, *.scss\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BF9C2D",
+			"setUserPhotoSP",
+			"enjoy collaborating",
+			"max size 5.2MB",
+			"upload",
+			"create",
+			"noaccesstoplans",
+			"sharepoint",
+			"bar",
+			"window.(.*\\w)\\s=\\sfunction\\(\\)\\s{",
+			"window(.*\\w)\\s=\\sfunction\\(\\)\\s{",
+			"window.Get(.*\\w)\\s=\\sfunction\\(\\)\\s{",
+			"window.(.*\\w)\\s=\\sfunction\\(\\)\\s{",
+			"window.",
+			"/me/",
+			"settheme",
+			"getcalendar",
+			"getCalendarEvents",
+			"getcalendarevents",
+			"/me/",
+			"/me",
+			"/me'",
+			"/me/",
+			"thepi",
+			"moretags",
+			"tags",
+			"orderBy: ",
+			"orderBy:",
+			"orderBy",
+			"GetGroups(",
+			"RefreshTabs",
+			"groupsmodel",
+			".search",
+			".Search",
+			".search",
+			".Search",
+			"search",
+			"Search",
+			"sort",
+			"groups",
+			"{{#*inline '",
+			"\"}}",
+			"{{#*inline \"",
+			"5000",
+			"ak-page-container",
+			"loop.html",
+			"masterpage",
+			"loop.html",
+			"masterpages",
+			"ak-user-nav",
+			"rail",
+			"GetRailItemViaRest",
+			"getrailitemsviarest",
+			"rail",
+			"traywidget",
+			"ss_menu",
+			"sort",
+			"Akumina.digispace.",
+			"card-search-container",
+			"card-search",
+			"container",
+			"card-search",
+			"__small_icon",
+			"mb0",
+			"mb3",
+			"mb2",
+			"mb1",
+			"badges--plain",
+			".uppy-Root [role~=\"tooltip\"][data-microtip-position|=\"bottom\"]::after",
+			".uppy-DashboardItem-progressIndicator {",
+			"> .menu {",
+			".ak-dashboard-widget-container {",
+			".workspaces-report-comp .members-blk {",
+			"over-slide {",
+			"over-body .note",
+			"&.over-slide form {",
+			".featured-workspace-blk .workspace-noti {",
+			".featured-workspace-blk .workspace-info h3 {",
+			".interAction .ia-button-group > li .ia-button {",
+			"\n.interAction .ia-button-group > li .ia-button",
+			".interAction .jstree-default .jstree-clicked",
+			".documentviewerfoldertree",
+			".document-component .document-head .sort-and-add select",
+			".interAction",
+			"contextmenu",
+			"_contextmenu",
+			"_context-menu",
+			"build",
+			"data-dropdown",
+			"dropdown",
+			"nav",
+			"navbar",
+			"dropdown",
+			"data-component",
+			"displaytemplateurl2",
+			"DisplayTemplateUrl2",
+			"donetyping",
+			"donetyping(",
+			"javascript:",
+			"date",
+			"jstree",
+			"tree",
+			"treeview",
+			"chosendefault",
+			"globals.chosendefault",
+			"globals.chosendefaults",
+			"data-layout-type='",
+			"pagebuilderseconddiv",
+			"src",
+			"loop.fed.main",
+			"'Default",
+			"\"Default",
+			".Default",
+			"Default",
+			"[\"Default",
+			"['Default",
+			"Default",
+			"JS.default",
+			"default",
+			"ia-widget-loader",
+			"task",
+			"empty",
+			"error",
+			"errorMsg",
+			"ShowErrorMessage",
+			"save",
+			"LOOP-",
+			"<h3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"overlay--form",
+			"defer.re",
+			"https://collaboratett21.atlassian.net/projects/LOOP/issues/LOOP",
+			"'#' + nextBtnId",
+			"// background-image: url(../images/icon-sprite.png)",
+			"../images/icon-sprite.png",
+			"/assets/images/icon-sprite.png",
+			"'hide'",
+			"'",
+			"box-shadow: 0 0 7px 0 rgba($black, 0.07);",
+			"rgba($black, 0.1)",
+			"rgba($black, 0.018)",
+			"rgba($black, 0.18)",
+			"<h4 class=\"overlay-title\">{{translate \"loop.overlayConfirmation\"}}</h4>",
+			"../{{WebUrl}}/Style%20Library",
+			"margin-right: $margin-2;",
+			"''"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										85,
+										85
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										22459,
+										22460
+									]
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"default_dir": "/Users/dominic.gan/workspace/temasek/loop/akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS",
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 9,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/dominic.gan/workspace/temasek/loop/frontend/src/assets/img/on.svg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/XML (SVG).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.737739041551,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.200035362176,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 460.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "temasek-loop-akumina.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"on.svg",
+				"frontend/src/assets/img/on.svg"
+			],
+			[
+				"workspacem",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceManageMembersWidget/LoopWorkspaceManageMembers.html"
+			],
+			[
+				"email",
+				"akumina/node_modules/uri-js/dist/esnext/schemes/mailto.js"
+			],
+			[
+				"loopworkspacelist",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceListingWidget/LoopWorkspaceListingList.html"
+			],
+			[
+				"enus",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/language/en-us.js"
+			],
+			[
+				"workspacelisting",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceListingWidget/LoopWorkspaceListingList.html"
+			],
+			[
+				"wor kspacecreate",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspaceCreatePopup.html"
+			],
+			[
+				"workspacetask",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspacePlanTasksWidget/LoopWorkspacePlanTasksListing.html"
+			],
+			[
+				"loop.html",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/MasterPages/loop.html"
+			],
+			[
+				"loopworkspacepro",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceProvisioningWidget/LoopWorkspaceProvisioning.html"
+			],
+			[
+				"provisi",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/WorkspaceProvisioningWidget.js"
+			],
+			[
+				"layout",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/PageLayouts/Loop2ColumnPageLayout.aspx"
+			],
+			[
+				"workspacelist",
+				"WidgetSourceCode/workspacelistingwidget.js"
+			],
+			[
+				"package",
+				"akumina/package.json"
+			],
+			[
+				"gulpf",
+				"akumina/gulpfile.babel.js"
+			],
+			[
+				"assets/scss/lib/uppy/utils/src/microtip.scss",
+				"akumina/src/assets/scss/lib/uppy/utils/src/microtip.scss"
+			],
+			[
+				"uppy/status-bar/src/style.scss",
+				"akumina/src/assets/scss/lib/uppy/status-bar/src/style.scss"
+			],
+			[
+				"scss/lib/uppy/dashboard/src/style.scss",
+				"akumina/src/assets/scss/lib/uppy/dashboard/src/style.scss"
+			],
+			[
+				"assets/scss/digitalworkplace/_workspaceadjusts.scss",
+				"akumina/src/assets/scss/digitalworkplace/_workspaceadjusts.scss"
+			],
+			[
+				"assets/scss/digitalworkplace/_task.scss",
+				"akumina/src/assets/scss/digitalworkplace/_task.scss"
+			],
+			[
+				"assets/scss/digitalworkplace/_report.scss",
+				"akumina/src/assets/scss/digitalworkplace/_report.scss"
+			],
+			[
+				"/assets/scss/digitalworkplace/_overlay.scss",
+				"akumina/src/assets/scss/digitalworkplace/_overlay.scss"
+			],
+			[
+				"/assets/scss/digitalworkplace/_featuredworkspace.scss",
+				"akumina/src/assets/scss/digitalworkplace/_featuredworkspace.scss"
+			],
+			[
+				"assets/scss/digitalworkplace/_documentviewer.scss",
+				"akumina/src/assets/scss/digitalworkplace/_documentviewer.scss"
+			],
+			[
+				"assets/scss/digitalworkplace/_document.scss",
+				"akumina/src/assets/scss/digitalworkplace/_document.scss"
+			],
+			[
+				"assets/scss/components/forms/_input-text.scss",
+				"akumina/src/assets/scss/components/forms/_input-text.scss"
+			],
+			[
+				"contextmenuscss",
+				"akumina/src/assets/scss/digitalworkplace/_contextmenu.scss"
+			],
+			[
+				"loopmainscss",
+				"akumina/src/assets/scss/loop.main.scss"
+			],
+			[
+				"/assets/scss/widgets/notes-v2/_notes-v2-item.scss",
+				"akumina/src/assets/scss/widgets/notes-v2/_notes-v2-item.scss"
+			],
+			[
+				"/assets/scss/widgets/notes-v1/_notes-items.scss",
+				"akumina/src/assets/scss/widgets/notes-v1/_notes-items.scss"
+			],
+			[
+				"assets/scss/widgets/dms-v1/_dms-v1-sidebar.scss",
+				"akumina/src/assets/scss/widgets/dms-v1/_dms-v1-sidebar.scss"
+			],
+			[
+				"/assets/scss/digitalworkplace/_workspaceadjusts.scss",
+				"akumina/src/assets/scss/digitalworkplace/_workspaceadjusts.scss"
+			],
+			[
+				"ets/scss/digitalworkplace/_tab.scss",
+				"akumina/src/assets/scss/digitalworkplace/_tab.scss"
+			],
+			[
+				"assets/scss/digitalworkplace/_milestone.scss",
+				"akumina/src/assets/scss/digitalworkplace/_milestone.scss"
+			],
+			[
+				"gp",
+				"akumina/gulpfile.babel.js"
+			],
+			[
+				"workspacedetail",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceDetailsWidget/LoopWorkspaceDetailsHeader.html"
+			],
+			[
+				"onenotev2",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidgetv2.js"
+			],
+			[
+				"note",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js"
+			],
+			[
+				"plantask",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspacePlanAddTask.html"
+			],
+			[
+				"loopmainjs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/loop.main.js"
+			],
+			[
+				"plantaskhtml",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspacePlanTasksWidget/LoopWorkspacePlanTasksListing.html"
+			],
+			[
+				"layoutwork",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/Layouts/LoopWorkspaceLayout.html"
+			],
+			[
+				"related",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspacelooprelatedlinkswidget.js"
+			],
+			[
+				"onenote",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js"
+			],
+			[
+				"lanugage",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/language/en-us.js"
+			],
+			[
+				"workpaceplantas",
+				"WidgetSourceCode/workspaceplantaskswidget.js"
+			],
+			[
+				"dochtml",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspacePageWidget/LoopWorkspaceDocumentTabLayout.html"
+			],
+			[
+				"enusjs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/language/en-us.js"
+			],
+			[
+				"loggin",
+				"frontend/src/assets/js/widgets/logging.js"
+			],
+			[
+				"eslintr",
+				"frontend/.eslintrc"
+			],
+			[
+				"plantas",
+				"frontend/src/assets/js/widgets/workspacePlanTaskWidget.js"
+			],
+			[
+				"workspacetaskpla",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspacePlanTasksWidget/LoopWorkspacePlanTasksListing.html"
+			],
+			[
+				"workspacedetai",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceDetailsWidget/LoopWorkspaceDetailsHeader.html"
+			],
+			[
+				"workspacedeta",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceDetailsWidget/LoopWorkspaceDetailsHeader.html"
+			],
+			[
+				"workspacenotejs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js"
+			],
+			[
+				"whiteboardjs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceWhiteboardwidget.js"
+			],
+			[
+				"workspaceprovi",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceProvisioningWidget/LoopWorkspaceProvisioning.html"
+			],
+			[
+				"",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspaceEditPopup.html"
+			],
+			[
+				"gul",
+				"akumina/gulpfile.js"
+			],
+			[
+				"workspacelistin",
+				"WidgetSourceCode/workspacelistingwidget.js"
+			],
+			[
+				"taskhtml",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspacePlanAddTask.html"
+			],
+			[
+				"modalshtml",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceDetailsWidget/LoopWorkspaceDetailsHeader.html"
+			],
+			[
+				"loopworkpsace",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceProvisioningWidget/LoopWorkspaceProvisioning.html"
+			],
+			[
+				"notesv2",
+				"frontend/src/assets/scss/widgets/notes-v2/_notes-v2-item.scss"
+			],
+			[
+				"notejs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js"
+			],
+			[
+				"documentviewtree",
+				"frontend/src/assets/scss/digitalworkplace/_documentviewtree.scss"
+			],
+			[
+				"dmsgrid",
+				"frontend/src/assets/scss/digitalworkplace/_dmsgrid.scss"
+			],
+			[
+				"documentviscs",
+				"frontend/src/assets/scss/digitalworkplace/_documentviewer.scss"
+			],
+			[
+				"documejs",
+				"frontend/src/assets/js/widgets/workspaceDocumentsWidget.js"
+			],
+			[
+				"logingjs",
+				"frontend/src/assets/js/widgets/logging.js"
+			],
+			[
+				"documtreetemplate",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/DocumentsFolderTree/templates.html"
+			],
+			[
+				"docvitree",
+				"frontend/src/assets/scss/widgets/dms-v2/_documentviewtree.scss"
+			],
+			[
+				"docvitreescss",
+				"frontend/src/assets/scss/digitalworkplace/_documentviewtree.scss"
+			],
+			[
+				"settingscss",
+				"frontend/src/assets/scss/_settings.scss"
+			],
+			[
+				"documentviewfilescs",
+				"frontend/src/assets/scss/widgets/dms-v2/_documentviewfile.scss"
+			],
+			[
+				"documentsgridhtm",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/DocumentsGrid/default.html"
+			],
+			[
+				"dgriddefault",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/DocumentsGrid/default.html"
+			],
+			[
+				"workspacedocjs",
+				"frontend/src/assets/js/widgets/workspaceDocumentsWidget.js"
+			],
+			[
+				"dmsv1prev",
+				"frontend/src/assets/scss/widgets/dms-v1/_dms-v1-preview.scss"
+			],
+			[
+				"docuviewfil",
+				"frontend/src/assets/scss/widgets/dms-v2/_documentviewfile.scss"
+			],
+			[
+				"docuvitrscs",
+				"frontend/src/assets/scss/digitalworkplace/_documentviewtree.scss"
+			],
+			[
+				"documentvi",
+				"frontend/src/assets/scss/digitalworkplace/_documentviewer.scss"
+			],
+			[
+				"docvifscss",
+				"frontend/src/assets/scss/widgets/dms-v2/_documentviewfile.scss"
+			],
+			[
+				"documentviewfilescss",
+				"frontend/src/assets/scss/widgets/dms-v2/_documentviewfile.scss"
+			],
+			[
+				"documeviewtrees",
+				"frontend/src/assets/scss/digitalworkplace/_documentviewtree.scss"
+			],
+			[
+				"documentviscss",
+				"frontend/src/assets/scss/digitalworkplace/_documentviewer.scss"
+			],
+			[
+				"loopfedmain",
+				"frontend/src/assets/js/loop.fed.main.js"
+			],
+			[
+				"documenttree",
+				"frontend/src/assets/scss/widgets/dms-v2/_documentviewtree.scss"
+			],
+			[
+				"dms",
+				"frontend/src/assets/scss/widgets/_dms-v2.scss"
+			],
+			[
+				"logging",
+				"frontend/src/assets/js/widgets/logging.js"
+			],
+			[
+				"looporo",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceProvisioningWidget/LoopWorkspaceProvisioning.html"
+			],
+			[
+				"workspaceprovisi",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/WorkspaceProvisioningWidget.js"
+			],
+			[
+				"onentoejs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js"
+			],
+			[
+				"workspaceonenote",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js"
+			],
+			[
+				"workspaonenotejs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js"
+			],
+			[
+				"workspacelistingjs",
+				"frontend/src/assets/js/widgets/workspaceListingWidget.js"
+			],
+			[
+				"notev2",
+				"frontend/src/assets/scss/widgets/notes-v2/_notes-v2-item.scss"
+			],
+			[
+				"notesv1",
+				"frontend/src/assets/scss/widgets/notes-v1/_notes-content.scss"
+			],
+			[
+				"workspaceonenotejs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspaceonenotewidget.js"
+			],
+			[
+				"loop.main.",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/loop.main.js"
+			],
+			[
+				"glob aljs",
+				"frontend/src/assets/js/globals.js"
+			],
+			[
+				"dropdownscss",
+				"frontend/src/assets/scss/digitalworkplace/_dropdown.scss"
+			],
+			[
+				"workspacecrete",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspaceCreatePopup.html"
+			],
+			[
+				"workspacead",
+				"frontend/src/assets/scss/digitalworkplace/_workspaceadjusts.scss"
+			],
+			[
+				"managememberscsss",
+				"frontend/src/assets/scss/digitalworkplace/_managemembers.scss"
+			],
+			[
+				"workspaceedit",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspaceEditPopup.html"
+			],
+			[
+				"relatedscss",
+				"frontend/src/assets/scss/widgets/related-links/_related-links-page.scss"
+			],
+			[
+				"taskpa",
+				"frontend/src/assets/scss/widgets/tasks/_tasks-panel.scss"
+			],
+			[
+				"relatedlinksjs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspacelooprelatedlinkswidget.js"
+			],
+			[
+				"relatedlinkhtml",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceLoopRelatedLinksWidget/LoopWorkspaceLoopRelatedLinksWidget.html"
+			],
+			[
+				"create",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspaceCreatePopup.html"
+			],
+			[
+				"overlyascs",
+				"frontend/src/assets/scss/digitalworkplace/_overlay.scss"
+			],
+			[
+				"whiteboardhtml",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceWhiteBoardWidget/LoopWorkspaceWhiteboardWidget.html"
+			],
+			[
+				"taskpanel",
+				"frontend/src/assets/scss/widgets/tasks/_tasks-panel.scss"
+			],
+			[
+				"taskscss",
+				"frontend/src/assets/scss/digitalworkplace/_task.scss"
+			],
+			[
+				"dmsv1scss",
+				"frontend/src/assets/scss/widgets/_dms-v1.scss"
+			],
+			[
+				"taskjs",
+				"frontend/src/assets/js/widgets/workspacePlanTaskWidget.js"
+			],
+			[
+				"workspacedte",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceDetailsWidget/LoopWorkspaceDetailsHeader.html"
+			],
+			[
+				"relatedjs",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/JS/widgets/workspacelooprelatedlinkswidget.js"
+			],
+			[
+				"mamageme",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspaceManageMembersWidget/LoopWorkspaceManageMembers.html"
+			],
+			[
+				"colorscss",
+				"frontend/src/assets/scss/mixins/_brand-colors.scss"
+			],
+			[
+				"settings",
+				"frontend/src/assets/scss/_settings.scss"
+			],
+			[
+				"plantasklisting",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/WorkspacePlanTasksWidget/LoopWorkspacePlanTasksListing.html"
+			],
+			[
+				"workspacecreate",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspaceCreatePopup.html"
+			],
+			[
+				"planaddtask",
+				"akumina/package/SiteDefinitions/DigitalWorkPlace/Branding/content/templates/Workspaces/WorkspacePlanAddTask.html"
+			],
+			[
+				"taskwidget",
+				"frontend/src/assets/js/widgets/workspacePlanTaskWidget.js"
+			],
+			[
+				"globals",
+				"frontend/src/assets/js/globals.js"
+			],
+			[
+				"listingjs",
+				"WidgetSourceCode/workspacelistingwidget.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 471.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
